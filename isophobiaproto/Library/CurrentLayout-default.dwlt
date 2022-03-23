@@ -344,7 +344,7 @@ MonoBehaviour:
   m_MinSize: {x: 507, y: 271}
   m_MaxSize: {x: 14002, y: 10021}
   vertical: 0
-  controlID: 131
+  controlID: 172
 --- !u!114 &15
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -569,7 +569,7 @@ MonoBehaviour:
   m_Size:
     m_Target: 4.2073946
     speed: 2
-    m_Value: 4.507395
+    m_Value: 4.2073946
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -852,7 +852,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c62300000000000074760000926e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
